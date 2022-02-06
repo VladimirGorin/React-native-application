@@ -1,0 +1,7 @@
+[
+    {"CustomerName":"Eric Torres","PhoneNumber":"(307) 555-0100","FaxNumber":"(307) 555-0101"},
+    {"CustomerName":"Cosmina Vlad","PhoneNumber":"(505) 555-0100","FaxNumber":"(505) 555-0101"},
+    {"CustomerName":"Bala Dixit","PhoneNumber":"(209) 555-0100","FaxNumber":"(209) 555-0101"},
+    {"Name":"Nada Jovanovic","Contact":{"Phone":"(215) 555-0100","Fax":"(215) 555-0101"}}
+
+]
